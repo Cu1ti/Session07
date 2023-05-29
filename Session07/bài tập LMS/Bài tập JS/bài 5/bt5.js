@@ -1,1 +1,0 @@
-let ageCheck=alert('Bạn đã đủ 18 tuổi chưa');
