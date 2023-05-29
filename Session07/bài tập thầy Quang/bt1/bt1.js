@@ -1,0 +1,1 @@
+alert("thầy Quang đẹp trai");

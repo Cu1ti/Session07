@@ -1,0 +1,10 @@
+let studentId=prompt("Nhập vào mã sinh viên");
+let studentName=prompt("Nhập vào tên bạn");
+let studentAge=+prompt("Nhập vào tuổi của bạn");
+let studentHtml=+prompt("Nhập vào điểm HTML");
+let studentCss=+prompt("Nhập vào điểm CSS");
+let studentJs=+prompt("Nhập vào điểm Javascript");
+let average=(studentHtml+studentCss+studentJs)/3;
+document.write('Mã sinh viên '+studentId+'<br>');
+document.write('Tên sinh viên '+studentName+'<br>');
+document.write('Điểm trung bình ' ,average);
